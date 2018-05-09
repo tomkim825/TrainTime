@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
+
+body{
+	font-family: 'Work Sans', sans-serif;
+    font-size:3vmin;
+    color: #333;
+    font-weight: 300;
+    padding-top:1vh;
+    text-decoration: none;
+    background-image: url("../images/amsterdam-main-train-station.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    margin:2vmin;
+}
+
+#mainBody{
+    margin-top: 10vmin;
+}
+
+
+nav{
+    font-size: 6vmin;
+    background-color: rgba(0,0,0,0.75);
+    color:white;    
+}    
+
+.table{
+    font-size: 2.5vmin;
+    background-color: rgba(250,250,250,0.96);
+    width:100%;
+    margin:0 4vmin;
+    text-align: center;
+}
+
+.col-md-6{
+    margin: 0 2.5vmin;
+}
+
+tfoot{
+    min-height:3vmin;
+    background-color: rgba(250,250,250,0.96);
+}
+
+.card-header{
+    margin: 0 2vmin;
+    font-size: 1.8vmin;
+
+}
+
+form{
+    font-size: 2.5vmin;
+    background-color: rgba(250,250,250,0.96);
+    padding:1vmin;
+    margin: 0 2vmin;
+}
