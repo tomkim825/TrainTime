@@ -1,6 +1,6 @@
-### File
+### Screenshot
+<img src="https://raw.githubusercontent.com/tomkim825/TrainTime/master/demo.gif">
 
-* TrainTime
 
 ### Instructions
 
@@ -14,9 +14,3 @@
 3. you can click edit to edit. It will remove the info from table and prefill the table. you will need to submit the info again.
 
 4. Remove button will remove the train info
-
-
-
-****
-Notes: The Javascript works. Could be cleaned up and refactored. I tried but it would break something as I did it. HW due in a few hours so I will leave everything as-is with full functionality. If I get some more sleep and have a fresh mind, I think I could clean it up much more.
-****
